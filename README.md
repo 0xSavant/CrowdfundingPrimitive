@@ -1,14 +1,7 @@
-# Mobius Protocol - Program Library
+# Solana Crowdfunding
 
-On-chain programs for Mobius Protocol, written with the Anchor Framework.
+On-chain programs for Crowdfunding, written with the Anchor Framework.
 
-
-## Roadmap
-
-Here's a quick overview of what we're planning to add:
-
-- Fundraiser Creation with PDAs
-- Standard Contributions
 
 ## Disclaimer
 
